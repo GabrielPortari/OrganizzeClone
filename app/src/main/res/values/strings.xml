@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">OrganizzeClone</string>
+    <!-- <string name="name">text</string> -->
+
+    <!-- intro 1 -->
+    <string name="titulo1">Organizze suas contas\nde onde estiver</string>
+    <string name="desc1">Simples e fácil de usar</string>
+    <!-- intro 2 -->
+    <string name="titulo2">Saiba para onde vai o seu dinheiro</string>
+    <string name="desc2">Categorizando seus lançamentos\ne vendo o destino de cada centavo</string>
+    <!-- intro 3 -->
+    <string name="titulo3">Nunca mais se esqueça de\npagar uma conta</string>
+    <string name="desc3">Receba alertas quando quiser</string>
+    <!-- intro 4 -->
+    <string name="titulo4">Tudo organizzado, no\ncelular ou computador</string>
+    <string name="desc4">Use no seu smartphone,\nou acesse pelo site</string>
+    <!-- intro cadastro -->
+    <string name="titulo_cadastro">Crie sua conta gratuitamente</string>
+    <string name="desc_cadastro">Junte-se a mais de\nmeio milhão de pessoas</string>
+    <string name="botao_cadastro">CADASTRE-SE</string>
+    <string name="tenhoconta_cadastro">Já possuo uma conta</string>
+    <!-- activity cadastro -->
+    <string name="crie_sua_conta">Crie sua conta gratuitamente</string>
+    <string name="nome">\tNome</string>
+    <string name="email">\tEmail</string>
+    <string name="senha">\tSenha</string>
+    <string name="botao_cadastrar">CADASTRAR</string>
+    <string name="termos">Termos de uso</string>
+    <!-- activity login -->
+    <string name="acesse">Acesse a sua conta</string>
+    <string name="botao_entrar">ENTRAR</string>
+    <!-- content principal -->
+    <string name="carregando">Carregando...</string>
+    <string name="saldo">R$ 0.00</string>
+    <string name="saldogeral">Saldo geral</string>
+    <!-- menu -->
+    <string name="menuitem1">Sair</string>
+    <!-- recycler item -->
+    <string name="categ">Categoria</string>
+    <string name="desc">Descricao</string>
+    <string name="resu">0.00</string>
+</resources>
